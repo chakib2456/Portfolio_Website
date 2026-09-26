@@ -1,0 +1,1 @@
+Replace assets/project-01.svg through project-06.svg with your own screenshots. Update the paths in index.html/project pages if you use JPG or PNG. Add your resume as assets/resume.pdf and replace the contact links.
